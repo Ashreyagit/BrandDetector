@@ -1,0 +1,47 @@
+img{
+    width: 500px;
+    padding-left:650px;
+    padding-top:120px;
+    border: 1px;
+    border-color:rgb(150, 241, 241);
+}
+
+*
+{
+  background: #403a3e; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #403a3e, #be5869); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #403a3e, #be5869); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+ul
+{
+    color:rgb(196, 253, 89);
+    padding-left:250px;
+}
+
+h2
+{
+    color:rgb(196, 253, 89);
+    padding-left:550px;
+}
+h3
+{
+    color:rgb(196, 253, 89);
+    padding-left:150px;
+}
+h1 
+{
+   color:darkorange;
+   align-content: center;
+   padding-left: 120px;
+}
+form
+{
+    padding-left:650px;
+}
+
+input
+{
+    color:rgb(196, 253, 89);
+}

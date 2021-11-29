@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Brand Detector</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+      <h1>Upload an image of branded cars, buildings, outfits logos etc.</h1><h2>   Let Computer Vision identify it for you!</h2>
+      <img src="<%= img%>" alt="uploaded image" />
+      <ul>
+        <% for(let i=0; i < brands.length; i++){ %>
+           <li>
+               <%=brands[i].name%> <%=brands[i].confidence.toFixed(2)%>
+               confidence
+
+               
+          </li>
+          <% } %>
+      </ul>
+      <h3> <%= msgg%> </h3>
+      <form action="/" enctype="multipart/form-data" method="post">
+      <input type="file" name="file-to-upload" />
+      <input type="submit" value="Upload" />
+    </form>
+  </body>
+</html>
