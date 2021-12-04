@@ -7,11 +7,13 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+
+   
       <h1>Upload an image of branded cars, buildings, outfits logos etc.</h1><h2>   Let Computer Vision identify it for you!</h2>
       <img src="<%= img%>" alt="uploaded image" />
-      <ul>
+      <ul id="phraseDiv">
         <% for(let i=0; i < brands.length; i++){ %>
-           <li>
+           <li id="phraseDiv1">
                <%=brands[i].name%> <%=brands[i].confidence.toFixed(2)%>
                confidence
 
@@ -20,9 +22,19 @@
           <% } %>
       </ul>
       <h3> <%= msgg%> </h3>
+      <h3> The color scheme of the image is primarily <%= colorr%> </h3>
+      <audio id="sound1" src="../output.mp3"></audio>
+      
       <form action="/" enctype="multipart/form-data" method="post">
       <input type="file" name="file-to-upload" />
-      <input type="submit" value="Upload" />
+      <input type="submit" value="Upload"/>
     </form>
+    <h2>The audio version of the Brand identified (Specially developed for Vision-impaired users)</h2>
+    
+    <script src="../public/main.js" type="text/javascript"></script>
+
+
+   
+   
   </body>
 </html>
