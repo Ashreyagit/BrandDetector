@@ -76,6 +76,7 @@ app.get("/result", (req, res) => {
 res.sendFile(path.join(__dirname, 'output.mp3'));
 });
 var text="";
+var colorr="";
 app.post("/", upload.single("file-to-upload"), async (req, res) => {
   try {
     // Upload image to cloudinary
@@ -124,7 +125,7 @@ app.post("/", upload.single("file-to-upload"), async (req, res) => {
      const color = (await computerVisionClient.analyzeImage(colorURLImage, { visualFeatures: ['Color'] })).color;
      printColorScheme(color);
      // </snippet_colors>
-     var colorr="";
+    
      // <snippet_colors_print>
      // Print a detected color scheme
      function printColorScheme(colors) {
