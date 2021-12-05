@@ -1,5 +1,7 @@
 const express = require("express");
 const app = express();
+
+const port = process.env.PORT || 3000;
 const multer = require("multer");
 const upload = multer({
   storage: multer.diskStorage({}),
@@ -185,4 +187,4 @@ app.post("/", upload.single("file-to-upload"), async (req, res) => {
 
 
 
-app.listen(process.env.PORT || 3000);
+app.listen(port);
