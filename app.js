@@ -27,7 +27,7 @@ app.use(express.static(__dirname + '/'));
 app.use('public', express.static(__dirname + '/'));
 app.use('/result', express.static(__dirname + '/'));
 
-app.use(express.static(__dirname + '/public'));
+
 
 //MS Specific
 const axios = require("axios").default;
@@ -67,6 +67,7 @@ const computerVisionClient = new ComputerVisionClient(
 app.set("view engine", "ejs");
 app.use(express.static("public"));
 
+app.use(express.static(__dirname + '/public'));
 //Routes
 app.get("/", (req, res) => {
   res.render("index.ejs");
