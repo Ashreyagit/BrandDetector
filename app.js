@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
-
-const port = process.env.PORT || 3000;
+var bodyParser = require('body-parser');
+//const port = process.env.PORT || 3000;
 const multer = require("multer");
 const upload = multer({
   storage: multer.diskStorage({}),
@@ -14,6 +14,9 @@ const upload = multer({
     cb(null, true);
   },
 });
+
+
+
 
 app.set('views', __dirname + '/views');
 app.set('view engine', 'ejs');
@@ -187,4 +190,4 @@ app.post("/", upload.single("file-to-upload"), async (req, res) => {
 
 
 
-app.listen(port);
+//app.listen(port);
