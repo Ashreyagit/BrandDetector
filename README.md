@@ -39,12 +39,15 @@ The app has been deployed to the URL-   https://brandapp123.herokuapp.com/      
   
   For checking which Azure services were used, kindly view the app.js file  <br/>
   <br/>
-  
-  ![Optional Text](../master/Capture4.JPG)
-  
-  
-  ![Optional Text](../master/Capture5.JPG)
+  Please view the Azure services being deployed in the app.js file <br/>
+  <br/>
+  ![Optional Text](../master/Capture6.JPG)
   
   
+  ![Optional Text](../master/Capture7.JPG)
+  
+  Another example of a brand being recognized-
+  
+   ![Optional Text](../master/Capture8.JPG)
   
   </sub>
