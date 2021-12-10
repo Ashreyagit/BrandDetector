@@ -14,9 +14,15 @@ The app has been deployed to the URL-   https://brandapp123.herokuapp.com/      
 <br />The steps to use the app deployed on the working Project URL are-                <br />
   1. Landing Page<br/>
   
-  ![Screenshot](Capture1.jpeg)
+  ![Optional Text](../master/Capture1.JPG)
 
-
+2. Upload a picture of the image that you want to identify a brand in by clicking on the browse and then upload button <br/>
+  
+3. View the results which contain the brand name detected, the colour scheme of the brand and the audio version of the identified brand
+  
+ 
+  
+  
   
   
   
