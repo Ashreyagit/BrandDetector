@@ -32,20 +32,24 @@ The app has been deployed to the URL-   https://brandapp123.herokuapp.com/      
   <br/>
   The project URL submitted works without any error and from all devices. <br/>
   <br/>
-  <br/>
+  
   The screenshots have been taken from the deployed web app <br/>
   
   Also, the Project as stated before uses 3 Azure services. <br/>
-  
+  <br/>
+  <br/>
   For checking which Azure services were used, kindly view the app.js file  <br/>
   <br/>
   Please view the Azure services being deployed in the app.js file <br/>
   <br/>
-  ![Optional Text](../master/Capture6.JPG)
+  ![Optional Text](../master/Capture6.jpg)
   
   
-  ![Optional Text](../master/Capture7.JPG)
+  ![Optional Text](../master/Capture7.jpg)
   
+  <br/>
+  The node modules for this project contain the Azure dependencies as well. But, owing to the huge size of the node modules, I have not uploaded them on Github.
+  <br/>
   Another example of a brand being recognized-
   
    ![Optional Text](../master/Capture8.JPG)
