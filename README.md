@@ -16,17 +16,22 @@ The app has been deployed to the URL-   https://brandapp123.herokuapp.com/      
   
   ![Optional Text](../master/Capture1.JPG)
 
-2. Upload a picture of the image that you want to identify a brand in by clicking on the browse and then upload button <br/>
+<br/>
+  2. Upload a picture of the image that you want to identify a brand in by clicking on the browse and then upload button <br/>
   
-3. View the results which contain the brand name detected, the colour scheme of the brand and the audio version of the identified brand
+<br/>
+  3. View the results which contain the brand name detected, the colour scheme of the brand and the audio version of the identified brand
   
- 
+![Optional Text](../master/Capture2.JPG)
+  
+  To listen to the audio, ensure that the "Allow Audio" setting of your browser is on- <br/>
+  
+  ![Optional Text](../master/Capture3.png)
   
   
+  The project URL submitted works without any error and from all devices. <br/>
   
-  
-  
-  
+  The screenshots have been taken from the deployed web app <br/>
   
   
   
