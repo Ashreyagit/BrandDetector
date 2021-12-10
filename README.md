@@ -1,3 +1,4 @@
+<strong>
 <sub>
 Due to the rapid rise in number of brands and companies in different segments like food, automobiles, clothing, retail etc., it is becoming increasingly difficult to identify and correctly associate a product with its brand.  This project- Brand Detector, helps in recognizing brands associated with the object concerned, be it - cars, T-shirts, Food items etc. so that the consumer identifies the brand.<br />
 </sub>
@@ -57,3 +58,4 @@ The app has been deployed to the URL-   https://brandapp123.herokuapp.com/      
    ![Optional Text](../master/Capture8.JPG)
   
   </sub>
+<strong/>
