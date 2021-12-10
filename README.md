@@ -25,7 +25,7 @@ The app has been deployed to the URL-   https://brandapp123.herokuapp.com/      
 ![Optional Text](../master/Capture2.JPG)
   
   To listen to the audio, ensure that the "Allow Audio" setting of your browser is on- <br/>
-  
+ 
   ![Optional Text](../master/Capture3.png)
   
   <br/>
@@ -34,7 +34,7 @@ The app has been deployed to the URL-   https://brandapp123.herokuapp.com/      
   <br/>
   
   The screenshots have been taken from the deployed web app <br/>
-  
+  <br/>
   Also, the Project as stated before uses 3 Azure services. <br/>
   <br/>
   <br/>
@@ -49,6 +49,8 @@ The app has been deployed to the URL-   https://brandapp123.herokuapp.com/      
   
   <br/>
   The node modules for this project contain the Azure dependencies as well. But, owing to the huge size of the node modules, I have not uploaded them on Github.
+  Just to provide a sample of the Azure dependenices in the node modules of the code, kindly check the cognitiveservices-computervision folder <br/>
+  
   <br/>
   Another example of a brand being recognized-
   
