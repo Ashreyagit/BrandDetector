@@ -9,12 +9,12 @@ This project uses 3 Azure services-<br />
 1) Azure Cognitive Services<br />
 2) Computer Vision<br />
 3) Text to Speech<br />
-
+<br/>
 The app has been deployed to the URL-   https://brandapp123.herokuapp.com/        <br />
-The steps to use the app deployed on the working Project URL are-                <br />
+<br />The steps to use the app deployed on the working Project URL are-                <br />
   1. Landing Page
   
-  
+  ![Alt text](Capture1.jpg?raw=true "Title")
 
 
   
