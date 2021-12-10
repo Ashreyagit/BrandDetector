@@ -28,17 +28,22 @@ The app has been deployed to the URL-   https://brandapp123.herokuapp.com/      
   
   ![Optional Text](../master/Capture3.png)
   
-  
+  <br/>
+  <br/>
   The project URL submitted works without any error and from all devices. <br/>
-  
+  <br/>
+  <br/>
   The screenshots have been taken from the deployed web app <br/>
   
+  Also, the Project as stated before uses 3 Azure services. <br/>
+  
+  For checking which Azure services were used, kindly view the app.js file  <br/>
+  <br/>
+  
+  ![Optional Text](../master/Capture4.JPG)
   
   
-  
-  
-  
-  
+  ![Optional Text](../master/Capture5.JPG)
   
   
   
