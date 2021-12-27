@@ -14,6 +14,7 @@ This project uses 3 Azure services-<br />
 The app has been deployed to the URL-   https://brandapp123.herokuapp.com/        <br />
 <br />The steps to use the app deployed on the working Project URL are-                <br />
   1. Landing Page<br/>
+  <br/>
   
   ![Optional Text](../master/Capture1.JPG)
 
@@ -22,11 +23,13 @@ The app has been deployed to the URL-   https://brandapp123.herokuapp.com/      
   
 <br/>
   3. View the results which contain the brand name detected, the colour scheme of the brand and the audio version of the identified brand
+  <br/>
   
 ![Optional Text](../master/Capture2.JPG)
   
   To listen to the audio, ensure that the "Allow Audio" setting of your browser is on- <br/>
- 
+ <br/>
+  
   ![Optional Text](../master/Capture3.png)
   
   <br/>
@@ -44,6 +47,7 @@ The app has been deployed to the URL-   https://brandapp123.herokuapp.com/      
   Please view the Azure services being deployed in the app.js file <br/>
   <br/>
   ![Optional Text](../master/Capture6.jpg)
+  <br/>
   
   
   ![Optional Text](../master/Capture7.jpg)
@@ -54,6 +58,7 @@ The app has been deployed to the URL-   https://brandapp123.herokuapp.com/      
   
   <br/>
   Another example of a brand being recognized-
+  <br/>
   
    ![Optional Text](../master/Capture8.JPG)
   
